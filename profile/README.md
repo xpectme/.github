@@ -1,6 +1,6 @@
 ## Greetings stranger!
 
-### Who am ?
+### Who am I?
 
 I'm Mario Stöcklein, the founder of XP.LIVE. I'm dedicated to revolutionizing the ticket sales and verification system.
 
