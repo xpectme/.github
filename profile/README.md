@@ -1,12 +1,9 @@
-## Hi there 👋
+## Greetings stranger!
 
-<!--
+### Who am ?
 
-**Here are some ideas to get you started:**
+I'm Mario Stöcklein, the founder of XP.LIVE. I'm dedicated to revolutionizing the ticket sales and verification system.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### What is this organization all about?
+
+xpectme is my public Github organization where I showcase my work and contribute to the tech community. Through xpectme, I hope to share my passion for technology by publishing high-quality, open-source components that are used within my company. Although still in the early stages, I am eager to grow and evolve this organization, and any support, whether through contributions or sponsorship, is greatly appreciated.
